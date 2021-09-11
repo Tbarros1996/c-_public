@@ -1,2 +1,2 @@
-# c-_public
+# C++
 Meus Projetos Públicos de C++
